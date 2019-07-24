@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Clases\Krajoski Clase\bin\Debug\netcoreapp2.2\Krajoski Clase.deps.json
+C:\Users\Administrator\Desktop\Clases\Krajoski Clase\bin\Debug\netcoreapp2.2\Krajoski Clase.runtimeconfig.json
+C:\Users\Administrator\Desktop\Clases\Krajoski Clase\bin\Debug\netcoreapp2.2\Krajoski Clase.runtimeconfig.dev.json
+c:\Users\Administrator\Desktop\Clases\Krajoski Clase\bin\Debug\netcoreapp2.2\Krajoski Clase.dll
+c:\Users\Administrator\Desktop\Clases\Krajoski Clase\bin\Debug\netcoreapp2.2\Krajoski Clase.pdb
+c:\Users\Administrator\Desktop\Clases\Krajoski Clase\obj\Debug\netcoreapp2.2\Krajoski Clase.csprojAssemblyReference.cache
+c:\Users\Administrator\Desktop\Clases\Krajoski Clase\obj\Debug\netcoreapp2.2\Krajoski Clase.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Desktop\Clases\Krajoski Clase\obj\Debug\netcoreapp2.2\Krajoski Clase.RazorAssemblyInfo.cache
+c:\Users\Administrator\Desktop\Clases\Krajoski Clase\obj\Debug\netcoreapp2.2\Krajoski Clase.RazorAssemblyInfo.cs
+c:\Users\Administrator\Desktop\Clases\Krajoski Clase\obj\Debug\netcoreapp2.2\Krajoski Clase.AssemblyInfoInputs.cache
+c:\Users\Administrator\Desktop\Clases\Krajoski Clase\obj\Debug\netcoreapp2.2\Krajoski Clase.AssemblyInfo.cs
+c:\Users\Administrator\Desktop\Clases\Krajoski Clase\obj\Debug\netcoreapp2.2\Krajoski Clase.RazorTargetAssemblyInfo.cache
+c:\Users\Administrator\Desktop\Clases\Krajoski Clase\obj\Debug\netcoreapp2.2\Krajoski Clase.dll
+c:\Users\Administrator\Desktop\Clases\Krajoski Clase\obj\Debug\netcoreapp2.2\Krajoski Clase.pdb
